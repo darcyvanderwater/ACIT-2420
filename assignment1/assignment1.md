@@ -50,7 +50,8 @@ Where "USER" is your Windows username and the text following -C is a comment app
 
 Navigate to your C:/Users/USER/.ssh/ folder, and you will see 2 files named "my-key". The one ending in .pub is your public key, the file without an extension is your private key. Open your public key file in notepad, and copy the contents to your clipboard. Return to our Digital Ocean page and click on "New SSH Key". You can then paste your key into the text box. Give your key a name on the line below, then click "Add SSH Key".
 
-![[Pasted image 20241001223123.png]]
+![Pasted image 20241001223123](https://github.com/user-attachments/assets/5e4c999b-3bdd-4b2a-a0e1-c1e8057bb299)
+
 
 ##### **Automation!**
 
